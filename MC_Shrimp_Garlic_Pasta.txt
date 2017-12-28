@@ -34,3 +34,6 @@ Allergy Warnings:
 2. Garlic
 3. Parsley
 4. Cheese
+
+Footnotes:
+This is a really tasty recipe
