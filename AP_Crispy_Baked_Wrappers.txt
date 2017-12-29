@@ -5,7 +5,12 @@ Menu Class: Appetizers
 Recipe By: DL
 
 Description:
-Baked wonton wrappers filled with cheesy sausage.  This is a delicious dish! 
+Baked wonton wrappers filled with cheesy sausage.  This is a delicious dish!
+
+Kitchen Supplies:
+1. Spoons
+2. Pots and Pans 
+3. Eggs
 
 Ingredients
 1. 1 package (18 ounce) wonton wrapper
